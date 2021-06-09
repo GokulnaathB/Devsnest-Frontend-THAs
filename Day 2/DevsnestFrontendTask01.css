@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    color: powderblue;
+    background-color:tomato;
+}
+section {
+    background-color: powderblue;
+    max-width: 500px;
+    margin: auto;
+    border: 2px solid black;
+    padding-left: 10px;
+}
+.underline {
+    text-decoration: underline;
+}
+body {
+    background-image: url(CodingTheFuture2.jpg);
+    font-family: 'Architects Daughter', cursive;
+    font-size: 13px; 
+}
+
